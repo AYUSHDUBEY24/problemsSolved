@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
