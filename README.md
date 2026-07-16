@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -88,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
