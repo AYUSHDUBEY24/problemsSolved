@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
