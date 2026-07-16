@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
+| [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
@@ -72,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
