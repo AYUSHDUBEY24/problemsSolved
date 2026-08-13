@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
+| [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
