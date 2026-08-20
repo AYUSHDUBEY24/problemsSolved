@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
@@ -117,4 +118,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
