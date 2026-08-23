@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
+| [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
