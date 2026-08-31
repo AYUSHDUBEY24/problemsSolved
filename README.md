@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
 ## Backtracking
 |  |
 | ------- |
