@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
