@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0180-consecutive-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
