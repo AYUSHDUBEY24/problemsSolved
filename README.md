@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0595-big-countries) |
 ## Stack
 |  |
