@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
