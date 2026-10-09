@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
