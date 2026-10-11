@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
+| [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1991-find-the-middle-index-in-array) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
+| [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
