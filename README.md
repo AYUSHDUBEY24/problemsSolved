@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
