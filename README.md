@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0733-flood-fill) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
