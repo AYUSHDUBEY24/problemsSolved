@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
