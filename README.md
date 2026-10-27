@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0062-unique-paths) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0852-peak-index-in-a-mountain-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
