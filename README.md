@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
 | [0473-matchsticks-to-square](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
