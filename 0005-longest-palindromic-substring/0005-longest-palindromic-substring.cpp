@@ -6,7 +6,7 @@ public:
         int n = s.size();
 
         for (int i = 0; i < n; i++) {
-            // Odd length
+            
             int l = i, r = i;
 
             while (l >= 0 && r < n && s[l] == s[r]) {
@@ -18,7 +18,7 @@ public:
                 r++;
             }
 
-            // Even length
+            
             l = i;
             r = i + 1;
 
