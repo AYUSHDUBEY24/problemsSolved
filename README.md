@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0062-unique-paths) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
