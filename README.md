@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/1512-number-of-good-pairs) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
