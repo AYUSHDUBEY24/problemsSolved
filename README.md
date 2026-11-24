@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
