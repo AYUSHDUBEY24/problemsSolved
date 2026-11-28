@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0219-contains-duplicate-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AYUSHDUBEY24/problemsSolved/tree/master/0202-happy-number) |
 ## Database
 |  |
